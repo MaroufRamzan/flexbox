@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: #080808;
+}
+#navbar{
+    height: 50px;
+
+}
+#logo{
+    color: red;
+    font-size: 50px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: wavy;
+    font-style:initial ;
+}
+footer{
+    color: blanchedalmond;
+    background-color: black;
+    text-align: center;
+}

@@ -1,0 +1,68 @@
+/* h1{
+    color:green;
+}
+p{
+    color:rgb(230, 29, 29)
+}
+button{
+    color: rgb(202, 202, 214);
+    background-color: blue;
+}
+body{
+   background-color: chartreuse;
+} */
+/* #box{
+    background-color: rgb(17, 17, 230);
+} */
+/* button{
+    color:rgb(13, 255, 0);
+} */
+/* p{
+    text-align: left;
+}
+h1{
+    text-align: center;
+    text-decoration:blue double underline;
+}
+/* #two{
+   font-family:'Times New Roman', Times, serif 
+} */
+/* h1{
+    text-transform:uppercase; 
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+font-size: 10px;
+} */ 
+div{
+    height: 270px;
+    width: 100px;
+    margin: 10px;
+    padding: 1px;
+    background-color: rgb(16, 190, 224);
+    #div1{
+height: 75px;
+width: 75px;
+background-color:rgb(246, 8, 8);
+border-radius: 50%;
+}
+              #div2{
+        height: 75px;
+width: 75px;
+background-color:rgb(151, 231, 12);
+border-radius: 50%;
+         
+            }
+                       #div3{ 
+            height: 75px;
+            width: 75px;
+            background-color:rgb(16, 8, 246);
+            border-radius: 50%;
+                    }  
+    
+                }
